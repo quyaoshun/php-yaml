@@ -1,9 +1,9 @@
 = Source Code =
 
-The source code for the php-yaml project has moved to [http://svn.php.net/viewvc/pecl/yaml official PECL hosting at svn.php.net].
+The source code for the php-yaml project has moved to [https://git.php.net/?p=pecl/file_formats/yaml.git;a=summary official PECL hosting at git.php.net].
 
 == Command-line access ==
 
 Use this command to anonymously check out the latest project source code:
 
-{{{svn checkout http://svn.php.net/repository/pecl/yaml/trunk yaml}}}
+{{{git clone https://git.php.net/repository/pecl/file_formats/yaml.git}}}
